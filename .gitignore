@@ -1,2 +1,4 @@
 .env
 latex_prompt.ipynb
+*.pyc
+*.pyo

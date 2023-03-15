@@ -1,5 +1,7 @@
 # Latext
 
+[![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
+
 Natural language -> latex. That's basically what this thing does.
 This is just another [just for fun](https://justforfunnoreally.dev/) project for learning openai library and basic prompt engineering.
 

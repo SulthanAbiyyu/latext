@@ -26,4 +26,5 @@ Actual tokens: 256
 
 ### Limitation
 
-If you are using jupyter notebooks, you'll need to delete the extra "\\". This happens due to python escape character on "\\"
+1. If you are using jupyter notebooks, you'll need to delete the extra "\\". This happens due to python escape character on "\\"
+2. USD to IDR conversion is hardcoded because it's not the main concern
